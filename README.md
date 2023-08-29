@@ -15,7 +15,7 @@ $ git clone
 
 # Acesso
 
-$ cd ignews
+$ cd buscador
 
 # Instale a dependencia
 
