@@ -2,7 +2,7 @@
 
 <p>Projeto que ajuda a identificar o endereço pelo CEP.<p>
 
-<p><img src="/public/imgdoredme (1).pngpublic">
+<p><img src="/public/imgdoredme (1).png">
 <p>
 
 <img src="/public/imgdoredme (2).png">
