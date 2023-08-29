@@ -13,7 +13,7 @@
 
 $ git clone
 
-# Access
+# Acesso
 
 $ cd ignews
 
@@ -21,7 +21,7 @@ $ cd ignews
 
 $ npm install
 
-# Run the project
+# Rode o projeto
 
 $ npm start
 
